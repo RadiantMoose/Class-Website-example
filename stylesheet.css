@@ -1,0 +1,56 @@
+p.intro {
+    font-size: 40px;
+    color: black;
+}
+
+div{
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body{
+    background-color: ivory;
+}
+
+.heading {
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+}
+
+#special-section-1  {
+    background-color: red;
+    padding: 20px;
+}
+#special-section-2  {
+    background-color: blue;
+    padding: 20px;
+}
+
+#last  {
+    padding: 20px;
+    max-width: 800px;
+    max-height: 800px;
+    background-color: turquoise;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+a{
+    color: black;
+    font-size: 30px;
+}
+a:hover {
+    color: red;
+}
+
+.section {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+img {
+    margin-top: 20px;
+}
